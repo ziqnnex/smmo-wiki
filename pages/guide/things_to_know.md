@@ -1,6 +1,8 @@
+# Things to know
+
 Hello, fellow adventurers! Here are a few tips on how to start playing this game.
 
-# How should I start?
+## How should I start?
 - You can earn experience by Traveling, doing Quests, Jobs, Tasks, and fighting Battles!
 - In the beginning, you should focus on levelling up Dexterity to increase the success rate of Quests!
 - It is best not to Gamble, as you can, and will lose the little gold you have in the beginning. You can keep your gold safe from your addiction in the Bank!
