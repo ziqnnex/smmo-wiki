@@ -1,6 +1,13 @@
 # Changelog
 Here you can find information about website updates, etc.
 
+### Version 0.0.19
+On Jul 11 2022
+- General
+  - Initial phase of rework of the whole page
+  - Preparations for advance items search
+  - Prepared support to fetch content of pages from [github repository](https://github.com/ImY0mu/smmo-wiki)
+
 ### Version 0.0.18 
 On May 17 2022
 - General
