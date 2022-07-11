@@ -6,7 +6,7 @@ On Jul 11 2022
 - General
   - Initial phase of rework of the whole page
   - Preparations for advance items search
-  - Prepared support to fetch content of pages from [github repository](https://github.com/ImY0mu/smmo-wiki)
+  - Prepared support to fetch content of pages from <a href="[http://example.com/](https://github.com/ImY0mu/smmo-wiki)" target="_blank">github repository</a>
 
 ### Version 0.0.18 
 On May 17 2022
