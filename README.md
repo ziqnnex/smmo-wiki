@@ -1,0 +1,2 @@
+# smmo-wiki
+Initial test
