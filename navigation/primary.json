@@ -12,7 +12,7 @@
       "icon": "fas-handshake-angle",
       "submenu": [
         { 
-          "icon": "",
+          "icon": "fas-child",
           "file": "tips_for_beginners"
         },
         {
