@@ -42,6 +42,26 @@
          ]
       },
       {
+         "title":"Items",
+         "routes":[
+            "items"
+         ],
+         "items":[
+            {
+               "name":"search",
+               "file":"",
+               "path":"items",
+               "icon":"icon-magnifying-glass"
+            },
+            {
+               "name":"best_in_slot",
+               "file":"bis",
+               "path":"items",
+               "icon":"icon-star"
+            }
+         ]
+      },
+      {
          "title":"About",
          "routes":[
             "about"
