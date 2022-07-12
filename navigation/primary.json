@@ -12,11 +12,11 @@
       "icon": "fas-handshake-angle",
       "submenu": [
         { 
-          "icon": "fas-cloud",
+          "icon": "fas-child-reaching",
           "file": "tips_for_beginners"
         },
         {
-          "icon": "fas-cloud",
+          "icon": "fas-chalkboard-user",
           "file": "things_to_know"
         }
       ] 
@@ -24,10 +24,11 @@
     { 
       "file": "", 
       "path": "player",
-      "icon": "fas-cloud",
+      "icon": "fas-user",
       "submenu": [
         { 
-          "file": "attributes"
+          "file": "attributes",
+          "icon": "fas-certificate"
         }
       ] 
     }
