@@ -52,6 +52,24 @@
                "file":"",
                "path":"about",
                "icon":"icon-handshake-angle"
+            },
+            {
+               "name":"faq",
+               "file":"faq",
+               "path":"about",
+               "icon":"icon-circle-question"
+            },
+            {
+               "name":"game",
+               "file":"game",
+               "path":"about",
+               "icon":"icon-gamepad"
+            },
+            {
+               "name":"changelog",
+               "file":"changelog",
+               "path":"about",
+               "icon":"icon-wrench"
             }
          ]
       }
