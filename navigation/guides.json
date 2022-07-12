@@ -1,0 +1,26 @@
+{
+  "title": "Guides",
+  "route": "guides",
+  "items": [
+    { 
+      "file": "tips_for_beginners",
+      "path": "",
+      "submenu": [] 
+    },
+    { 
+      "file": "index", 
+      "path": "player",
+      "submenu": [
+        { 
+          "file": "awards", 
+          "submenu": [] 
+        },
+      ] 
+    },
+    { 
+      "file": "things_to_know", 
+      "path": "",
+      "submenu": [] 
+    },
+  ]
+}
