@@ -3,8 +3,16 @@
   "route": "docs",
   "items": [
     { 
-      "file": "tips_for_beginners",
-      "path": "guides"
+      "file": "", 
+      "path": "guides",
+      "submenu": [
+        { 
+          "file": "tips_for_beginners"
+        },
+        {
+          "file": "things_to_know"
+        }
+      ] 
     },
     { 
       "file": "", 
@@ -15,9 +23,5 @@
         }
       ] 
     },
-    { 
-      "file": "things_to_know", 
-      "path": "guides"
-    }
   ]
 }
