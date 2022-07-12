@@ -9,14 +9,14 @@
     { 
       "file": "", 
       "path": "guides",
-      "icon": "fas-handshake-angle",
+      "icon": "icon-handshake-angle",
       "submenu": [
         { 
-          "icon": "fas-child",
+          "icon": "icon-child-reaching",
           "file": "tips_for_beginners"
         },
         {
-          "icon": "fas-chalkboard-user",
+          "icon": "icon-chalkboard-user",
           "file": "things_to_know"
         }
       ] 
@@ -24,11 +24,11 @@
     { 
       "file": "", 
       "path": "player",
-      "icon": "fas-user",
+      "icon": "icon-user",
       "submenu": [
         { 
           "file": "attributes",
-          "icon": "fas-certificate"
+          "icon": "icon-certificate"
         }
       ] 
     }
