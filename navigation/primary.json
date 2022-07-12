@@ -1,6 +1,10 @@
 {
   "title": "Docs",
-  "route": "docs",
+  "routes": [
+    "docs",
+    "guides",
+    "player"
+  ],
   "items": [
     { 
       "file": "", 
