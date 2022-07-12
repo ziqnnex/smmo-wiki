@@ -1,10 +1,10 @@
 {
-  "title": "Guides",
-  "route": "guides",
+  "title": "Docs",
+  "route": "docs",
   "items": [
     { 
       "file": "tips_for_beginners",
-      "path": ""
+      "path": "guides"
     },
     { 
       "file": "", 
@@ -17,7 +17,7 @@
     },
     { 
       "file": "things_to_know", 
-      "path": ""
+      "path": "guides"
     }
   ]
 }
