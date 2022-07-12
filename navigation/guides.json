@@ -8,12 +8,11 @@
       "submenu": [] 
     },
     { 
-      "file": "index", 
+      "file": "", 
       "path": "player",
       "submenu": [
         { 
-          "file": "awards", 
-          "submenu": [] 
+          "file": "attributes", 
         },
       ] 
     },
