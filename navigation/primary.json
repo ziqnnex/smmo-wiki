@@ -9,11 +9,14 @@
     { 
       "file": "", 
       "path": "guides",
+      "icon": "fas-handshake-angle",
       "submenu": [
         { 
+          "icon": "fas-cloud",
           "file": "tips_for_beginners"
         },
         {
+          "icon": "fas-cloud",
           "file": "things_to_know"
         }
       ] 
@@ -21,6 +24,7 @@
     { 
       "file": "", 
       "path": "player",
+      "icon": "fas-cloud",
       "submenu": [
         { 
           "file": "attributes"
