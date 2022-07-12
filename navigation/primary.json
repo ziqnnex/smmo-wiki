@@ -9,26 +9,31 @@
          ],
          "items":[
             {
+               "name":"Guides",
                "file":"",
                "path":"guides",
                "icon":"icon-handshake-angle",
                "submenu":[
                   {
+                     "name":"Tips forbeginners",
                      "icon":"icon-child-reaching",
                      "file":"tips_for_beginners"
                   },
                   {
+                     "name":"Things to know",
                      "icon":"icon-chalkboard-user",
                      "file":"things_to_know"
                   }
                ]
             },
             {
+               "name":"Player",
                "file":"",
                "path":"player",
                "icon":"icon-user",
                "submenu":[
                   {
+                     "name":"Attributes",
                      "file":"attributes",
                      "icon":"icon-certificate"
                   }
@@ -43,8 +48,9 @@
          ],
          "items":[
             {
+               "name":"Project",
                "file":"",
-               "path":"project",
+               "path":"about",
                "icon":"icon-handshake-angle"
             }
          ]
