@@ -4,20 +4,20 @@
   "items": [
     { 
       "file": "tips_for_beginners",
-      "path": "",
+      "path": ""
     },
     { 
       "file": "", 
       "path": "player",
       "submenu": [
         { 
-          "file": "attributes", 
+          "file": "attributes"
         },
       ] 
     },
     { 
       "file": "things_to_know", 
-      "path": "",
-    },
+      "path": ""
+    }
   ]
 }
