@@ -1,2 +1,3 @@
-@section('title', 'Test title cz')
+# Typy pro začátečníky
+
 Test cz
