@@ -139,7 +139,7 @@ With a reference later in the document defining the URL location:
 [id]: https://web.simple-mmo.com/img/primary-logo-white-text.png  "The SimpleMMO Logo"
 
 
-### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
+### Footnotes
 
 Footnote 1 link[^first].
 
@@ -156,7 +156,7 @@ Duplicated footnote reference[^second].
 [^second]: Footnote text.
 
 
-### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
+### Definition lists
 
 Term 1
 
@@ -181,7 +181,7 @@ Term 2
   ~ Definition 2b
 
 
-### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
+### Abbreviations
 
 This is HTML abbreviation example.
 
