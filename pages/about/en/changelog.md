@@ -1,6 +1,8 @@
 # Changelog
 Here you can find information about website updates, etc.
 
+[Toc]
+
 ### Version 0.0.20
 On Aug 21 2022
 - General
