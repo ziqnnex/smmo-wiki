@@ -1,17 +1,14 @@
 # Guidelines
 ---
-__Advertisement :)__
+__#AD Time__
 
-- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
-  resize in browser.
-- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
-  i18n with plurals support and easy syntax.
+- __[App Hub](https://github.com/ImY0mu/SimpleMMO-Hub-Dist)__ - Windows SimpleMMO client
 
-You will like those projects!
+I hope you will like it!
 
 ---
 
-# h1 Heading 8-)
+# h1 Heading
 ## h2 Heading
 ### h3 Heading
 #### h4 Heading
@@ -137,17 +134,17 @@ Right aligned columns
 
 ## Links
 
-[link text](http://dev.nodeca.com)
+[link text](https://web.simple-mmo.com)
 
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
+[link with title](https://web.simple-mmo.com "title text!")
 
-Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
+Autoconverted link https://web.simple-mmo.com (enable linkify to see)
 
 
 ## Images
 
-![Minion](https://octodex.github.com/images/minion.png)
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+![SimpleMMO Logo](https://web.simple-mmo.com/img/dragon-head-trans.png)
+![SimpleMMO Logo with title](https://web.simple-mmo.com/img/primary-logo-white-text.png "The SimpleMMO Logo")
 
 Like links, Images also have a footnote style syntax
 
@@ -155,13 +152,7 @@ Like links, Images also have a footnote style syntax
 
 With a reference later in the document defining the URL location:
 
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
-
-
-## Plugins
-
-The killer feature of `markdown-it` is very effective support of
-[syntax plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
+[id]: https://web.simple-mmo.com/img/primary-logo-white-text.png  "The SimpleMMO Logo"
 
 
 ### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
