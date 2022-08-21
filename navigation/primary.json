@@ -104,8 +104,8 @@
                {
                   "title":"about",
                   "title_after_localisation": {
-                   "en":"About",
-                   "cz":"O_nás"
+                   "en":"about",
+                   "cz":"o_nás"
                   },
                   "routes":[
                      "about"
@@ -160,8 +160,8 @@
                {
                   "title":"support",
                   "title_after_localisation": {
-                   "en":"Support",
-                   "cz":"Podpora"
+                   "en":"support",
+                   "cz":"podpora"
                   },
                   "routes":[
                      "support"
