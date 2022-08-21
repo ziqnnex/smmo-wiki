@@ -71,7 +71,7 @@
                   "title":"items",
                   "title_after_localisation": {
                    "en":"Items",
-                   "cz":"Itemy"
+                   "cz":"Předměty"
                   },
                   "routes":[
                      "items"
@@ -81,7 +81,7 @@
                         "name":"search",
                         "name_after_localisation": {
                                 "en":"search",
-                                "cz":"hledat"
+                                "cz":"vyhledat"
                         },
                         "file":"",
                         "path":"items",
