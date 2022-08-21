@@ -97,7 +97,7 @@
                         "file":"bis",
                         "path":"items",
                         "icon":"icon-star",
-                        "view": "items.bis"
+                        "view": "items.bis_search"
                      }
                   ]
                },
