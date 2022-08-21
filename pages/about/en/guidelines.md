@@ -2,7 +2,7 @@
 
 [TOC]
 
-write `[TOC}` for Table of contents for the page
+write `[TOC]` for Table of contents for the page
 
 ## This is the introduction <a name="introduction"></a>
 Some introduction text, formatted in heading 2 style
