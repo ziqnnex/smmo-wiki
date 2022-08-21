@@ -126,7 +126,7 @@ Right aligned columns
 
 [link with title](https://web.simple-mmo.com "title text!")
 
-Autoconverted link https://web.simple-mmo.com (enable linkify to see)
+Autoconverted link https://web.simple-mmo.com
 
 
 ## Images
