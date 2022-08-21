@@ -1,2 +1,5 @@
 # Tips for beginners
-todo
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
