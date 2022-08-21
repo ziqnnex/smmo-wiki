@@ -1,6 +1,12 @@
 # Changelog
 Here you can find information about website updates, etc.
 
+### Version 0.0.20
+On Aug 21 2022
+- General
+  - Added a feature to have multiple translations for pages
+  - Improved menu structuring and added translation support
+
 ### Version 0.0.19
 On Jul 11 2022
 - General
