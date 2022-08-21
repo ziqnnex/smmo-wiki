@@ -142,21 +142,6 @@ With a reference later in the document defining the URL location:
 
 [id]: https://web.simple-mmo.com/img/primary-logo-white-text.png  "The SimpleMMO Logo"
 
-### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
-
-- 19^th^
-- H~2~O
-
-
-### [\<ins>](https://github.com/markdown-it/markdown-it-ins)
-
-++Inserted text++
-
-
-### [\<mark>](https://github.com/markdown-it/markdown-it-mark)
-
-==Marked text==
-
 
 ### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
 
@@ -207,9 +192,3 @@ This is HTML abbreviation example.
 It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 
 [.HTML](Hyper Text Markup Language)
-
-### [Custom containers](https://github.com/markdown-it/markdown-it-container)
-
-::: warning
-*here be dragons*
-:::
