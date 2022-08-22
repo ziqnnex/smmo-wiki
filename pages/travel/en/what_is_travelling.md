@@ -23,10 +23,14 @@ Step with your fellow Plebeians and Simpletopians! Players are now able to step 
 
 Travel | Change Location 
 
-idk what table you might put here
+Change Location, formally known as Horse and Carriage, is a place where you can travel from a town location to another town location. Different towns can have different shops and chances of; item, NPC, travel text and material.
+
+(insert some table you might put here)
 
 
 Travel | Event Towns
 
-something omething % something something
+Event towns are ONLY availabe during their respective events.
+
+(something omething % something something)
 
