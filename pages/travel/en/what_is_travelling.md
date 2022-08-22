@@ -17,3 +17,7 @@ Travel texts are developer-approved text snippets, typically being any variety o
 
 
 Travel | Stepping Parties 
+
+Step with your fellow Plebeians and Simpletopians! Players are now able to step with other players by creating or joining a stepping party! A maximum of 4 players can be in a party. The party's leader can invite players from their friends list or, make the party public so that anybody is able to join their party. Players can find the "Parties Page" through clicking the 3 dots on the Travel Screen and clicking "View Parties". In doing so, a list of public parties or friends parties is shown. Benefits of joining a party is extra experience and gold, the amount scales depending on your own level.
+
+
