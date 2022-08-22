@@ -3,14 +3,14 @@ Tips | How do I play?
 Fellow Simpletopians! Here are a few tips on how to start playing SimpleMMO.
 
 . Gain Experience by Travelling, Questing, doing Jobs and Tasks, and fighting Battles! 
- > Use your energy points to fight NPCS and your quest points to do Quests. 
+ -> Use your energy points to fight NPCS and your quest points to do Quests. 
 
 . Invest your stat points on Strength and Dexterity, 2:1 ratio. You should stop adding points to Dexterity when you have reached the maximum needed for completing the current last quest, currently 6,720. You can earn stat points by leveling up. 
 
 . Try not to Gamble early on. Save your gold in your Bank for the future.
 
 . Turning on Safe Mode can help avoid being attacked by other players.
- > Permanent safe mode will be automatically activated upon reaching level 200, you will be able to turn it off once for free.
+ -> Permanent safe mode will be automatically activated upon reaching level 200, you will be able to turn it off once for free.
 
 . You can heal for free 3 times per day (6 if you are a pleb) in Folen's Tent. In addition, you can regenerate Health by Food or simply over time at a rate of 5% HP per 5 minutes. (10% HP per 5 minutes if you are a pleb).
 
