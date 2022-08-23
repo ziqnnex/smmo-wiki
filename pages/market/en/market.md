@@ -2,10 +2,13 @@
 
 The player market exists so players can sell their items to other players. To access the player market, go to Town. 
 
+***insert steps to access the Market from town***
 <h1> Market | Adding An Item To The Player Market </h1> 
 
 Go to your inventory, find the item you want to add to the market. Select that Item and choose the 'List on Market' option.
 After tapping List on Market you can specify the quantity and what amount of money you want for your item. There is no confirmation when pressing the "Sell Item" button, so be careful not to press it by accident!
+
+***insert steps to list an item on the market and sell with steps and stuff***
 
 Note:
 - There is a 3.5% fee for selling items on the Market. The 3.5% fee is automatically collected after your item(s) were sold. 
