@@ -1,4 +1,4 @@
-<h1> Tips | How do I play? </h1>
+<h1> Tips | How Do I Play? </h1>
 
 Fellow Simpletopians! Here are a few tips on how to start playing SimpleMMO.
 
