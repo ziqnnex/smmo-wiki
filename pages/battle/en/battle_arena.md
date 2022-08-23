@@ -1,4 +1,4 @@
-Battle | Battle Arena
+<h1> Battle | Battle Arena </h1>
 
 Battle, formally known as Battle Arena is the place to test your strength against non-player opponent. It can be accessed through the main menu.
 
@@ -9,7 +9,7 @@ Players advance through league tiers with progressing difficulity. Depending on 
 *insert battle arena table and tiers and thingies*
 
 
-Battle | Achievements 
+<h1> Battle | Achievements </h1>
 
 - Once a player has reached Titanium League, they are automatically rewarded with a Made From Titanium award.
 
@@ -24,7 +24,7 @@ Battle | Achievements
 - Once a player has reached Nirvana they are automatically rewarded with a Entered Nirvana award.
 
 
-Battle | List of Opponents 
+<h1> Battle | List of Opponents </h1> 
 
 These lists contain the creatures that you may find in the new Battle Arena system. You may also encounter these enemies while traveling through steps.
 
