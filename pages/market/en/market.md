@@ -18,4 +18,6 @@ Note:
 
 <h1> Market | Item Shop </h1> 
 
-The NPC Shop, or Item Shop, 
+The NPC Shop, or Item Shop, are availabe in every town/location they have ser prices and become available as you level up. They may have cheaper prices than the player market and you can buy up to 100 of a certain item at once. Certain shops are only accessible in specific town.
+
+***insert list of shops and items in each shop***
